@@ -26,3 +26,13 @@ Whenever a participant submits a Google Form, the script:
 4) Copy the provided Apps Script into the linked Sheet.
 5) Set up a trigger to run the script on form submission (onFormSubmit).
 6) Certificates are generated and emailed automatically!
+
+💡 Notes
+
+* Make sure the Google Slides template placeholders match exactly with the keys used in the script.
+* Ensure your Gmail account has permission to send emails via Apps Script.
+* Fully customizable for any event or organization.
+
+📬 Credits
+
+Created by Jeevan for District 91 Toastmasters to simplify certificate generation and improve participant experience.
